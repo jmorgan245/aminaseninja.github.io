@@ -232,7 +232,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: color: #EAC67A;;
   cursor: pointer;
   font-family: $courier;
   font-weight: 300;
@@ -242,7 +242,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $darkGray;
+  color: #ffffff;
   font-size: 16px;
 
   @include mobile {
@@ -265,7 +265,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #ffffff;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
