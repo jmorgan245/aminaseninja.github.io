@@ -40,7 +40,7 @@ published: true
     <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
-    <td>Kriday and I worked well together. We thought logically  and persevered to complete our goal; when there was an error in our code, we retraced our steps and saw what was wrong using our noticing skills.  We then applied past knowledge from one of the other projects and corrected our mistakes. We were actively listening to each other and listening to ideas. We collaborated together and learnt as a team.</td>
+    <td>Kriday and I worked well together. We thought logically  and persevered to complete our goal; when there was an error in our code, we retraced our steps and saw what was wrong using our noticing skills.  We then applied past knowledge from one of the other projects and corrected our mistakes. We were actively listening to each other and listening to ideas. We collaborated together and learnt as a team. This allowed us to get on to setting up the electronics kit.</td>
   </tr>
   <tr>
     <th>What limited my learning? Which habits do I need to work on? </th>
