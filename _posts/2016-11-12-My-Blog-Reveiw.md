@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <th>Starting point:</th>
-    <td>I started this blog from a forked version of Jekyll NOW.</td>
+    <td>I started this blog from a forked version of Jekyll Now.</td>
   </tr>
   <tr>
     <th>Target</th>
-    <td>To have a blog that Is nice to read with a good color scheme.</td>
+    <td>To have a blog that is nice to read with a good color scheme.</td>
   </tr>
   <tr>
     <th>Did I reach my target? 
