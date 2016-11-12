@@ -53,7 +53,7 @@ published: true
     <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
-    <td>I will dramatically improve my learning if I add some humor to my work. At the moment, I am a very serious person, and that reflects in my work. If I am able to add some humor then my work will be much more enjoyable to read.</td>
+    <td>I will dramatically improve my learning, if I add some humor to my work. At the moment, I am a very serious person, and that reflects in my work. If I am able to add some humor; my work will be much more enjoyable to read.</td>
   </tr>
 </table>
 
