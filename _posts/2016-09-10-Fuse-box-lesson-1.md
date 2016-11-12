@@ -1,5 +1,5 @@
 ---
-title: Fuze box lesson 1
+title: Fuze Box Lesson 1
 layout: post
 author: jack.morgan2
 permalink: /fuse-box-lesson-1/
