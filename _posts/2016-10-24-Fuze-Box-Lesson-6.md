@@ -1,4 +1,4 @@
---
+---
 title: Fuze Box Lesson 6
 layout: post
 author: jack.morgan2
@@ -41,7 +41,7 @@ published: true
   <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
-    <td>Kriday and I worked well together, we ignored distractions, allowing to focus on coding. We also stayed on task and didn't get sidetracked this sped up  progress so we could learn more. We reflected on last lesson, where we needed to take our time. We did it and it actually made us get more work done because we weren't making mistakes. It just goes to show that slow and steady DOES win the race. Me and kriday were also resourceful, using the internet, a peer or the help of a teacher when we got stuck.  We also had self control: We ignored distractions and just got on with the task. In this lesson, we learnt about variables and how to change the font size using 'fontsclae (0,0)'</td>
+    <td>Kriday and I worked well together, we ignored distractions, allowing to focus on coding. We also stayed on task and didn't get sidetracked this sped up  progress so we could learn more. We reflected on last lesson, where we needed to take our time. We did it and it actually made us get more work done because we weren't making mistakes. It just goes to show that slow and steady DOES win the race. Me and kriday were also resourceful, using the internet, a peer or the help of a teacher when we got stuck.  We also had self control: We ignored distractions and just got on with the task. In this lesson, we learnt about variables and how to change the font size using 'fontsclae (0,0)'. This lesson was really fun! I never new that you could make pictures using B.A.S.I.C! It would be even more fun if we could use a wider range of pictures or even make some ourselves!</td>
   </tr>
   <tr>
   <th>What limited my learning? Which habits do I need to work on? </th>
