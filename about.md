@@ -3,13 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Team Leader: "The Arts and Design" at Dr Challoner's Grammar School
+I am Jack, and this blog is about my I.T lessons in year 8
 
 ### More Information
 
-Living proof that musicians are good programmers...
+We program Fuze Boxes which use B.A.S.I.C. I hope you like this blog as much as I do!
 
-### Contact me
-
-[mta@challoners.org](mailto:mta@challoners.org)
