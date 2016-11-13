@@ -40,7 +40,7 @@ published: true
     <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
-    <td>Kriday and I worked well together. We thought logically  and persevered to complete our goal; when there was an error in our code, we retraced our steps and saw what was wrong using our noticing skills.  We then applied past knowledge from one of the other projects and corrected our mistakes. We were actively listening to each other and listening to ideas. We collaborated together and learnt as a team. This allowed us to get on to setting up the electronics kit. The elctronics kit was hard to set up but definitely worth the time as it was so fun to use! We got to make an LED light up , which might not sound that fun, but when you complete it you just get a bif feeling of sucess! I LOVED it!</td>
+    <td>Kriday and I worked well together. We thought logically  and persevered to complete our goal; when there was an error in our code, we retraced our steps and saw what was wrong using our noticing skills.  We then applied past knowledge from one of the other projects and corrected our mistakes. We were actively listening to each other and listening to ideas. We collaborated together and learnt as a team. This allowed us to get on to setting up the electronics kit. The electronics kit was hard to set up but definitely worth the time as it was so fun to use! We got to make an LED light up , which might not sound that fun, but when you complete it you just get a bif feeling of sucess! I LOVED it!</td>
   </tr>
   <tr>
     <th>What limited my learning? Which habits do I need to work on? </th>
@@ -52,7 +52,7 @@ published: true
     <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
-    <td>Next time, I will improve my learning by being accurate. We make a lot of typing errors, If i slow down and avoid these then it will make us more efficient and achieve more.</td>
+    <td>Next time, I will improve my learning by being accurate. We make a lot of typing errors, if I slow down and avoid these then it will make us more efficient and achieve more.</td>
   </tr>
 </table>
 
