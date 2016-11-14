@@ -41,19 +41,19 @@ published: true
     <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
-    <td>To get to where I am I  took a lot of responsible risks and did a lot of  questioning; wondering what would happen if I changed certain features. When I ran into problems, I persevered and  thought logically and flexibly  to fix them. Moreover, I was very resourceful by using help from peers and the internet to make my blog aesthetically pleasing.I was Amazed how unique you could make your blog! I am very good at planning how I am going to do things and keeping track of time. For example, I planned out what I wanted to do, how to do it and time frames that I want to complete the work in. I have a lot of self belief and self control because I know that If you try your best and don't give up; you will make it! From Making this blog I have learnt many things, like coding css and HTML but also that you need to believe in yourself and that everything is possible.</td>
+    <td>To get to where I am I  took some responsible risks and did a lot of  questioning; wondering what would happen if I changed certain features. When I ran into problems, I persevered and  thought logically and flexibly  to fix them. Moreover, I tried to be resourceful by using help from peers and the internet to make my blog aesthetically pleasing. I was amazed how much you could change the style your blog! I am very good at planning how I am going to do things and keeping track of time. For example, I decided to put my text into tables and set a time frame of 30 minutes in which to do it. It actually took a little longer but the extra time was worthwhile as I now  have a much better understanding of how the tables work. I have a lot of self belief and self control because I know that If you try your best and don't give up; you will make it! From making this blog I have learnt many new things, like coding css and HTML but also that you need to try different ways to get the effect that you want.</td>
   </tr>
   <tr>
     <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
-    <td>You might say that my learning was limited when things went wrong , but no, it's quite the opposite. The best way to learn is from your mistakes so when things go wrong I note to myself how to avoid the problem next time.</td>
+    <td>You might say that my learning was limited when things went wrong , but it's quite the opposite. The best way to learn is from your mistakes so when things go wrong I note to myself how to avoid the problem next time.</td>
   </tr>
   <tr>
     <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
-    <td>I will dramatically improve my learning, if I add some humor to my work. At the moment, I am a very serious person, and that reflects in my work. If I am able to add some humor; my work will be much more enjoyable to read.</td>
+    <td>I will dramatically improve my learning, if I add some humour to my work. At the moment, I am a very serious person, and that reflects in my work. If I am able to add some humour; my work will be much more enjoyable to read.</td>
   </tr>
 </table>
 
