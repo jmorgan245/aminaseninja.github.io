@@ -1,4 +1,4 @@
----
+ ---
 title: Fuze Box Lesson 7
 layout: post
 author: jack.morgan2
@@ -40,7 +40,15 @@ published: true
     <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
-    <td>Kriday and I worked well together. We thought logically  and persevered to complete our goal; when there was an error in our code, we retraced our steps and saw what was wrong using our noticing skills.  We then applied past knowledge from one of the other projects and corrected our mistakes. We were actively listening to each other and listening to ideas. We collaborated together and learnt as a team. This allowed us to get on to setting up the electronics kit. The electronics kit was hard to set up but definitely worth the time as it was so fun to use! We got to make an LED light up , which might not sound that fun, but when you complete it you just get a bif feeling of sucess! I LOVED it!</td>
+    <td>Kriday and I worked well together. We thought logically  and persevered to complete our goal; when there was an error in our code, we retraced our steps and saw what was wrong using our noticing skills.  We then applied past knowledge from one of the other projects and corrected our mistakes. We were actively listening to each other and listening to ideas. We collaborated together and learnt as a team. This allowed us to get on to setting up the electronics kit. The electronics kit was hard to set up but definitely worth the time as it was so fun to use! We got to make an LED light up , which might not sound that fun, but when you complete it you just get a bif feeling of sucess! I LOVED it! Here is a picture of the code we had to yuse and a picture of the wiring, consisting of 2 leds a resister and 2 wires : 
+    <div class="img">
+     <a target="_blank" href="project stage 4-1 code.PNG">
+      <img src="project stage 4-1 code.PNG " alt="ps4-1" width="300" height="200">
+    
+    </a>
+    </div>
+    
+    </td>
   </tr>
   <tr>
     <th>What limited my learning? Which habits do I need to work on? </th>
