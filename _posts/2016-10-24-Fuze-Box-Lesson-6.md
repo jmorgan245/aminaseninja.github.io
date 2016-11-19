@@ -53,13 +53,13 @@ published: true
   <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
-    <td>this lesson, my learning was not limited. Me and Kriday worked perfectly. </td>
+    <td>This lesson, my learning was not limited. Me and Kriday worked perfectly. </td>
   </tr>
   <tr>
     <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
-    <td>next time, we will improve our learning by going back, checking my work and making sure that their are no errors.</td>
+    <td>Next time, we will improve our learning by going back, checking my work and making sure that their are no errors.</td>
   </tr>
 </table>
 
