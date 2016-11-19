@@ -42,6 +42,12 @@ published: true
   <tr>
     <td>Kriday and I worked well together. We thought logically  and persevered to complete our goal; when there was an error in our code, we retraced our steps and saw what was wrong using our noticing skills.  We then applied our past knowledge from one of the other projects and corrected our mistakes. We were actively listening to each other meaning  that we could improve our code. We collaborated together and learnt as a team. This allowed us to get on to setting up the electronics kit. The electronics kit was hard to set up but definitely worth the time as it was so fun to use! We got to make an LED light up , which might not sound that fun, but when you complete it you just get a bif feeling of sucess! I LOVED it!  Here is a picture of the code we had to use: <!--and a picture of the wiring, consisting of 2 leds a resistor and 2 wires -->
     
+    
+    
+    
+    
+    
+    
    <img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/project%20stage%204-1%20code.PNG?raw=true"> 
      
     
