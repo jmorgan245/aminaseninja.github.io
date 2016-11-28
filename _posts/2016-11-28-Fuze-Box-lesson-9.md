@@ -27,11 +27,10 @@ published: true
   </tr>
   <tr>
     <th>Did I reach my target?
-</th
-    <td>Yes, we finally finished it and moved onto the Light detector sensor.</td>
+    </th>
+    <td> Yes, we finally finished it and moved onto the Light detector sensor.</td>
   </tr>
 </table>
-
 
 <table>
   <tr>
