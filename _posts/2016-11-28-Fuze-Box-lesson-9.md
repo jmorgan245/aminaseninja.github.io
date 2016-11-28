@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+  <th>Title</th>
     <td>Fuze Box Lesson 9</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>19/11/16</td>
   </tr>
 </table>
@@ -18,16 +18,16 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+  <th>starting point:</th>
     <td>Most of the way through the electronics kit</td>
   </tr>
   <tr>
-    <td>Target</td>
+    <th>Target</th>
     <td>To finish the electronics kit.</td>
   </tr>
   <tr>
-    <td>Did I reach my target?
-</td>
+    <th>Did I reach my target?
+</th
     <td>Yes, we finally finished it and moved onto the Light detector sensor.</td>
   </tr>
 </table>
@@ -44,13 +44,13 @@ published: true
     <td>Me and kriday started of by Listening to Mr keen who told us what to do. This time it was telling us that  we had to carry on where we were last time and working as hard as we could.  Me and kriday then swiftly set up our fuze box by using a power cable, a mouse and a HDMI cable. This was easy because we had done it before for the last 9 weeks. We then set a target for the lesson, which is up near the top of the table. We then Thought logically , applied past knowledge, collaborated together and persevered. This meant that we could complete our goal and move on to the light sensitive resistor. Here is a picture of it:</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on?</td>
+    <th>What limited my learning? Which habits do I need to work on?</th>
   </tr>
   <tr>
     <td>Me and kriday worked perfectly together, therefore, our learning was not limited this lesson.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>Next time, I will take more responsible risks. This will enable us to achieve more.</td>
