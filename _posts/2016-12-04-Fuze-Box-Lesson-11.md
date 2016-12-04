@@ -1,5 +1,5 @@
 ---
-title: Fuze Box Lesson 11
+title: Fuze Box Lesson 10
 layout: post
 author: jack.morgan2
 permalink: /fuze-box-lesson-11/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <th>Title</th>
-    <td>Fuze Box Lesson 11</td>
+    <td>Fuze Box Lesson 10</td>
     <th>Date</th>
     <td>30/11/16</td>
   </tr>
