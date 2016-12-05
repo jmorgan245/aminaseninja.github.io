@@ -40,7 +40,7 @@ published: true
     <th>How did I learn? What strategies were effective?</th>
   </tr>
   <tr>
-    <td>Kriday and I worked as hard as we could this lesson. We had some problems along the way with the electronics but they were quickly sorted out with some persevering and logical thinking. We collaborated together to reach our goal. We did this swiftly , enabling us to move on to our next task. We applied past knowledge to set up the robot arm that we were going to program. We engaged in it together, being accurate but also taking responsible risks by doing some extra work.  We were constantly keeping track of time by saying when we had 45 minutes left, 30, 15, 10, 5, 3, 2 and 1 minutes left. We were constantly listening to each other and sharing ideas to achieve our goal. This is an image of the robot arm we had to program:
+    <td>Kriday and I worked as hard as we could this lesson. We had some problems along the way with the electronics but they were quickly sorted out with some persevering and logical thinking. We collaborated together to reach our goal. We did this swiftly , enabling us to move on to our next task. We applied past knowledge to set up the robot arm that we were going to program. We engaged in it together, being accurate but also taking responsible risks by doing some extra work.  We  constantly kept track of time by saying when we had 45 minutes left, 30, 15, 10, 5, 3, 2 and 1 minutes left. We were constantly listening to each other and sharing ideas to achieve our goal. This is an image of the robot arm we had to program:
     
     
     
