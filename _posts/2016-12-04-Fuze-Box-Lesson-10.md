@@ -46,7 +46,7 @@ published: true
     
     
     
-    <img src="http://images.maplinmedia.co.uk/the-fuze-powered-by-raspberry-pi-with-usb-robotic-arm.jpg?w=283&h=283&r=4&o=3iVJGdZzXv@oC@pIEe9Y4EUQ5tAj&V=goY1raw=true">
+    <img src="http://images.maplinmedia.co.uk/fuze-powered-by-raspberry-pi-and-usb-robot-arm.jpg?w=283&h=283&r=4&o=3iVJGdZzXv@oC@pIEe9Y4EUQ5tAj&V=gKn6?raw=true">
     </td>
   </tr>
   <tr>
