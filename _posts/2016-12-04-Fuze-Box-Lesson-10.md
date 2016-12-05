@@ -46,7 +46,7 @@ published: true
     
     
     
-    <img src="fuze-powered-by-raspberry-pi-and-usb-robot-arm.jpg?raw=true">
+    <img src="https://github.com/jmorgan245/jmorgan245.github.io/blob/master/images/fuze-powered-by-raspberry-pi-and-usb-robot-arm.jpg?raw=true">
     </td>
   </tr>
   <tr>
