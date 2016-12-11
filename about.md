@@ -11,5 +11,5 @@ We program Fuze Boxes which use B.A.S.I.C. I hope you like this blog as much as 
 
 ### Contact me 
 
-[jack.morgan2@hcalloners.org](mailto:jack.morgan2@challoners.org) 
+[jack.morgan2@challoners.org](mailto:jack.morgan2@challoners.org) 
 
